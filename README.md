@@ -1,4 +1,4 @@
-# license_plate_predicition — YOLOv8 License Plate Detection 📸🚀
+# license_plate_predicition — YOLOv8 License Plate Detection
 
 A lightweight Streamlit app that loads a trained YOLOv8 model and detects license plates in images with an intuitive chat-style UI.
 
